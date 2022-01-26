@@ -22,6 +22,8 @@ The following are trends observed in the data:
 
     1) The "average" player is male (84.03% of players) and between the ages of 20-24 (44.79% of players).
 
-    2) The group the spends the most, on average, belongs to the "Other/Nondisclosed" gender category (average: $4.56 per person), and is between 35-39 years of age (average:$4.76 per person). Female players come in second (average: $4.47 per person), and the second highest spending age group are players under 10 years old (average: $4.54 per person).
+    2) The group the spends the most, on average, belongs to the "Other/Nondisclosed" gender category (average: $4.56 per person), and is between 35-39 years of age (average:$4.76 per person).
+    
+    Female players come in second (average: $4.47 per person), and the second highest spending age group are players under 10 years old (average: $4.54 per person).
 
     3) The item "Persuasion" is one of the third most popular items (with 9 sold), but is only 10th in profitability, owing to its relatively low price. "Persuasion" has made $28.99 in total, while "Nirvana" has made $44.10 and has also been purchased 9 times. 
